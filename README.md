@@ -1,4 +1,3 @@
-**Logic:**
 The process involves the following steps:
 
 
